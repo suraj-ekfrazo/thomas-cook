@@ -1,0 +1,13 @@
+{
+    "name": "UnderProcessBookingRequest",
+    "alias": "underprocessbookingrequest",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\UnderProcessBookingRequest\\Providers\\UnderProcessBookingRequestServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

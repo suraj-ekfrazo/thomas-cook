@@ -1,0 +1,13 @@
+{
+    "name": "AdminIncidentRequest",
+    "alias": "adminincidentrequest",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\AdminIncidentRequest\\Providers\\AdminIncidentRequestServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

@@ -1,0 +1,13 @@
+{
+    "name": "SubAgent",
+    "alias": "subagent",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\SubAgent\\Providers\\SubAgentServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

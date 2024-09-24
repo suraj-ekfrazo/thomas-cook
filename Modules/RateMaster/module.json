@@ -1,0 +1,13 @@
+{
+    "name": "RateMaster",
+    "alias": "ratemaster",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\RateMaster\\Providers\\RateMasterServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

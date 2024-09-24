@@ -1,0 +1,13 @@
+{
+    "name": "TcUser",
+    "alias": "tcuser",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\TcUser\\Providers\\TcUserServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

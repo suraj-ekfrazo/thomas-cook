@@ -1,0 +1,16 @@
+{
+    "Agent": true,
+    "Holidays": true,
+    "Roles": true,
+    "AdminUsers": true,
+    "AdminIncidents": true,
+    "AdminIncidentRequest": true,
+    "SubAdmin": true,
+    "TcUser": true,
+    "HistoryBackup": true,
+    "SubAgent": true,
+    "BookingAllocation": true,
+    "UnderProcessBookingRequest": true,
+    "RateMaster": true,
+    "CurrentRate": true
+}

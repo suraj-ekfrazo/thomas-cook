@@ -1,0 +1,13 @@
+{
+    "name": "HistoryBackup",
+    "alias": "historybackup",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\HistoryBackup\\Providers\\HistoryBackupServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

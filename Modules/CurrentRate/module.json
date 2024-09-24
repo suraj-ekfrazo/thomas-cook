@@ -1,0 +1,13 @@
+{
+    "name": "CurrentRate",
+    "alias": "currentrate",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\CurrentRate\\Providers\\CurrentRateServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

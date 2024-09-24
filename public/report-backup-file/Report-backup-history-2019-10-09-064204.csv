@@ -1,0 +1,66 @@
+TC User Name,Incident Number,Agent Code,Agent Name,card Number,Passport Number,Transaction Type,status,Departure Date,Comment,Cashier,Doc Upload Date,Doc Upload Time,Completed Date,Completed Time
+superadmin,94265fbb,JC003,John Cina,5545-8800-0311-9662,,Reload,Accepted,0000-00-00,DOCUMENT RECEIVED,Admin,2019-10-09,15:45,2019-10-09,17:23
+superadmin,a081bb93,JC003,John Cina,5545-8800-0321-4760,,Reload,Accepted,0000-00-00,DOCUMENT RECEIVED,Admin,2019-10-09,15:44,2019-10-09,17:21
+superadmin,d6e04f67,JC003,John Cina,5545-8800-0273-7092,,Reload,Accepted,0000-00-00,Activation done,Admin,2019-10-09,15:44,2019-10-09,17:54
+superadmin,76da7b20,JC003,John Cina,5545-8800-0347-0784,,Reload,Accepted,0000-00-00,Card has been funded,Admin,2019-10-09,15:43,2019-10-09,20:24
+superadmin,0d321236,JC003,John Cina,5545-8800-0312-1841,,Reload,Accepted,0000-00-00,Card Activated,Admin,2019-10-09,15:40,2019-10-09,20:02
+superadmin,5636413e,JC003,John Cina,5545-8800-0273-7084,,Reload,Accepted,0000-00-00,Activation done,Admin,2019-10-09,15:40,2019-10-09,17:48
+superadmin,a26a3378,JC003,John Cina,5545-8800-0273-6136,,Reload,Rejected,0000-00-00,Declined,Admin,2019-10-09,15:39,2019-10-16,20:07
+superadmin,cad4bf34,JC003,John Cina,5545-8800-0189-6774,,Reload,Accepted,0000-00-00,Card has been Funded.,Admin,2019-10-09,15:20,2019-10-11,13:29
+superadmin,a06edeb4,JC003,John Cina,5545-8800-0161-3377,,Reload,Accepted,0000-00-00,Card has been funded,Admin,2019-10-09,15:18,2019-10-09,17:34
+superadmin,9310f08b,JC003,John Cina,5545-8800-0108-8489,,Reload,Accepted,0000-00-00,DOCUMENT RECEIVED,Admin,2019-10-09,15:18,2019-10-09,17:13
+superadmin,c243dc40,JC003,John Cina,5545-8800-0291-5292,,Reload,Accepted,0000-00-00,CARD HAS BEEN FUNDED,Admin,2019-10-09,15:06,2019-10-10,10:45
+superadmin,34f58f88,JC003,John Cina,5545-8800-0369-8954,,Reload,Accepted,0000-00-00,Activation Done,Admin,2019-10-09,15:05,2019-10-09,15:47
+superadmin,07ca79f6,JC003,John Cina,5314-2700-0046-9170,,Reload,Accepted,0000-00-00,Transaction done,Admin,2019-10-09,14:51,2019-10-09,19:17
+superadmin,084d5e29,JC003,John Cina,5545-8800-0289-8597,,Reload,Accepted,0000-00-00,Activation Done,Admin,2019-10-09,14:50,2019-10-09,16:38
+superadmin,646c109e,JC003,John Cina,5314-2700-0047-0418,,Reload,Accepted,0000-00-00,Transaction done,Admin,2019-10-09,14:49,2019-10-09,19:17
+superadmin,84802989,JC003,John Cina,5545-8800-0173-6038,,Reload,Accepted,0000-00-00,Transaction done,Admin,2019-10-09,14:48,2019-10-09,19:17
+superadmin,1fe83f1d,JC003,John Cina,5545-8800-0312-0330,,Reload,Accepted,0000-00-00,Transaction done,Admin,2019-10-09,14:38,2019-10-09,17:05
+superadmin,6ca88cc1,JC003,John Cina,5545-8800-0190-9791,,Reload,Accepted,0000-00-00,Activation done,Admin,2019-10-09,14:28,2019-10-09,16:28
+superadmin,64f73854,JC003,John Cina,5314-2700-0093-6483,,Reload,Accepted,0000-00-00,Transaction done,Admin,2019-10-09,14:25,2019-10-09,17:05
+superadmin,d71387ae,JC003,John Cina,5545-8800-0160-4764,,Reload,Accepted,0000-00-00,Activation Done,Admin,2019-10-09,14:13,2019-10-09,17:53
+superadmin,73cd49dd,JC003,John Cina,5545-8800-0302-0928,,Reload,Accepted,0000-00-00,Card has been funded,Admin,2019-10-09,14:13,2019-10-09,15:05
+superadmin,df0dd358,JC003,John Cina,5545-8800-0353-9216,,Reload,Accepted,0000-00-00,Transaction done,Admin,2019-10-09,14:07,2019-10-09,19:16
+superadmin,15ea3a5a,JC003,John Cina,5545-8800-0299-0766,,Reload,Accepted,0000-00-00,Transaction done,Admin,2019-10-09,14:05,2019-10-10,12:52
+superadmin,07b4893b,JC003,John Cina,5545-8800-0299-0766,,Reload,Accepted,0000-00-00,Transaction done,Admin,2019-10-09,14:04,2019-10-10,12:52
+superadmin,a06ad874,JC003,John Cina,5545-8800-0200-1952,,Reload,Accepted,0000-00-00,CARD HAS BEEN FUNDED,Admin,2019-10-09,13:53,2019-10-09,16:53
+superadmin,def1bf66,JC003,John Cina,5545-8800-0354-2988,,Reload,Accepted,0000-00-00,DOCUMENT RECEIVED,Admin,2019-10-09,13:51,2019-10-09,17:09
+superadmin,992bcfa5,JC003,John Cina,5545-8800-0314-6053,,Reload,Accepted,0000-00-00,Card has been funded,Admin,2019-10-09,13:50,2019-10-09,16:35
+superadmin,4e7e0f15,JC003,John Cina,5545-8800-0348-2151,,Reload,Accepted,0000-00-00,Activation done,Admin,2019-10-09,13:47,2019-10-09,14:00
+superadmin,fcefd9e4,JC003,John Cina,5545-8800-0298-2631,,Reload,Accepted,0000-00-00,Activation done,Admin,2019-10-09,13:40,2019-10-09,14:04
+superadmin,e9af1260,JC003,John Cina,5545-8800-0315-2333,,Reload,Accepted,0000-00-00,Transaction done,Admin,2019-10-09,13:40,2019-10-09,19:15
+superadmin,a1358caf,JC003,John Cina,5545-8800-0278-0951,,Reload,Accepted,0000-00-00,DOCUMENT RECEIVED,Admin,2019-10-09,13:37,2019-10-09,17:03
+superadmin,f4177b75,JC003,John Cina,5545-8800-0093-6746,,Reload,Accepted,0000-00-00,Activation done,Admin,2019-10-09,13:36,2019-10-09,17:28
+superadmin,d06e9ca7,JC003,John Cina,5545-8800-0093-6746,,Reload,Accepted,0000-00-00,Activation done,Admin,2019-10-09,13:26,2019-10-09,17:21
+superadmin,5afa5dcf,JC003,John Cina,5545-8800-0093-6738,,Reload,Accepted,0000-00-00,Activation done,Admin,2019-10-09,13:22,2019-10-09,17:15
+superadmin,fe548182,JC003,John Cina,5545-8800-0322-4819,,Reload,Accepted,0000-00-00,Transaction done,Admin,2019-10-09,13:14,2019-10-09,17:21
+superadmin,49409a11,JC003,John Cina,5545-8800-0199-7135,,Reload,Accepted,0000-00-00,Activation done,Admin,2019-10-09,12:55,2019-10-09,15:57
+superadmin,8bb986d8,JC003,John Cina,5314-2700-0083-3185,,Reload,Accepted,0000-00-00,Transaction done,Admin,2019-10-09,12:51,2019-10-09,17:21
+superadmin,f368f52b,JC003,John Cina,5545-8800-0314-6038,,Reload,Accepted,0000-00-00,Transaction done,Admin,2019-10-09,12:45,2019-10-09,17:04
+superadmin,46fc5749,JC003,John Cina,5545-8800-0315-0857,,Reload,Accepted,0000-00-00,Activation Done,Admin,2019-10-09,12:43,2019-10-09,14:19
+superadmin,28f43979,JC003,John Cina,5545-8800-0167-7802,,Reload,Accepted,0000-00-00,Activation Done,Admin,2019-10-09,12:37,2019-10-09,14:06
+superadmin,e11b484c,JC003,John Cina,5545-8800-0223-7879,,Reload,Accepted,0000-00-00,Transaction done,Admin,2019-10-09,12:35,2019-10-09,15:30
+superadmin,16713584,JC003,John Cina,5545-8800-0321-6112,,Reload,Accepted,0000-00-00,Card Activated,Admin,2019-10-09,12:24,2019-10-09,14:00
+superadmin,74f03594,JC003,John Cina,5545-8800-0299-0873,,Reload,Accepted,0000-00-00,Card Reload Done Successfully,Admin,2019-10-09,12:14,2019-10-09,13:43
+superadmin,b0fb35b2,JC003,John Cina,5545-8800-0299-0899,,Reload,Accepted,0000-00-00,Card Reload Done Successfully,Admin,2019-10-09,12:11,2019-10-09,14:33
+superadmin,7553308d,JC003,John Cina,5545-8800-0167-8388,,Reload,Accepted,0000-00-00,Card has been funded,Admin,2019-10-09,12:01,2019-10-09,16:26
+superadmin,30173d92,JC003,John Cina,5545-8800-0311-4945,,Reload,Accepted,0000-00-00,Acrivation done,Admin,2019-10-09,12:01,2019-10-09,13:37
+superadmin,bc27b307,JC003,John Cina,5545-8800-0273-8363,,Reload,Accepted,0000-00-00,Activation Done,Admin,2019-10-09,12:01,2019-10-09,13:03
+superadmin,7b554677,JC003,John Cina,5545-8800-0273-8389,,Reload,Accepted,0000-00-00,KINDLY MAKE THE ENTRY IN PORTAL,Admin,2019-10-09,11:56,2019-10-09,12:48
+superadmin,e3b1f20f,JC003,John Cina,5545-8800-0348-3365,,Reload,Accepted,0000-00-00,Card has been funded,Admin,2019-10-09,11:50,2019-10-10,17:32
+superadmin,ac99a190,JC003,John Cina,5545-8800-0290-7554,,Reload,Accepted,0000-00-00,Card Reload Done Successfully,Admin,2019-10-09,11:49,2019-10-09,12:38
+superadmin,5250097c,JC003,John Cina,5545-8800-0348-3365,,Reload,Accepted,0000-00-00,Transaction done,Admin,2019-10-09,11:46,2019-10-10,13:45
+superadmin,33eb149a,JC003,John Cina,5545-8800-0290-7554,,Reload,Accepted,0000-00-00,Activation Done,Admin,2019-10-09,11:46,2019-10-09,12:26
+superadmin,1ec5e7d4,JC003,John Cina,5314-2700-0093-3787,,Reload,Accepted,0000-00-00,Transaction done,Admin,2019-10-09,11:42,2019-10-09,15:29
+superadmin,63204b9f,JC003,John Cina,5545-8800-0341-0227,,Reload,Accepted,0000-00-00,Activation done,Admin,2019-10-09,11:40,2019-10-09,13:22
+superadmin,75ac108d,JC003,John Cina,5314-2700-0093-3803,,Reload,Accepted,0000-00-00,Activation done,Admin,2019-10-09,11:40,2019-10-09,17:35
+superadmin,bb827223,JC003,John Cina,5545-8800-0322-0841,,Reload,Accepted,0000-00-00,Activation done,Admin,2019-10-09,11:37,2019-10-09,11:54
+superadmin,3a8c582b,JC003,John Cina,5314-2700-0093-3795,,Reload,Accepted,0000-00-00,Card has been funded,Admin,2019-10-09,11:37,2019-10-10,17:27
+superadmin,aa77a31d,JC003,John Cina,5545-8800-0289-5395,,Reload,Accepted,0000-00-00,Activation done,Admin,2019-10-09,11:33,2019-10-09,12:24
+superadmin,c453e8b8,JC003,John Cina,5314-2700-0093-3779,,Reload,Accepted,0000-00-00,Card has been funded,Admin,2019-10-09,11:29,2019-10-10,17:26
+superadmin,7357740e,JC003,John Cina,5545-8800-0341-4352,,Reload,Rejected,0000-00-00,Case rejected . Customer already travelled.,Admin,2019-10-09,11:27,2019-10-09,16:53
+superadmin,a703fffb,JC003,John Cina,5545-8800-0189-5883,,Reload,Accepted,0000-00-00,Activation done,Admin,2019-10-09,11:06,2019-10-09,12:16
+superadmin,7867e1e7,JC003,John Cina,5545-8800-0369-8921,,Reload,Accepted,0000-00-00,Activation done,Admin,2019-10-09,11:03,2019-10-09,16:52
+superadmin,2f9a29c3,JC003,John Cina,5545-8800-0347-0099,,Reload,Accepted,0000-00-00,Transaction done,Admin,2019-10-09,10:59,2019-10-09,15:29
+superadmin,9a7e3f20,JC003,John Cina,5545-8800-0311-1792,,Reload,Accepted,0000-00-00,Activation done,Admin,2019-10-09,10:40,2019-10-09,12:46
+superadmin,2b6668e0,JC003,John Cina,5545-8800-0354-3366,,Reload,Accepted,0000-00-00,Transaction done,Admin,2019-10-09,10:27,2019-10-09,15:28

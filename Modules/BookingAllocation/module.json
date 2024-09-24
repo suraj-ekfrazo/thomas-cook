@@ -1,0 +1,13 @@
+{
+    "name": "BookingAllocation",
+    "alias": "bookingallocation",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\BookingAllocation\\Providers\\BookingAllocationServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}
